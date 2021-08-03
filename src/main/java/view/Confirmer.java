@@ -32,7 +32,7 @@ public class Confirmer extends WindowMaker {
         this.subject = subject;
     }
 
- 
+
     public void showWindow() {
 
         logger.debug("Method showWindow() started;");

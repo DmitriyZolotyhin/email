@@ -1,0 +1,83 @@
+2021-08-03 14:30:49 DEBUG UrlParser:45 - New UrlParser created without parameters;
+
+2021-08-03 14:30:49 DEBUG MainView:64 - Method 'start' started;
+2021-08-03 14:30:49 DEBUG MainView:129 - Method 'addTextFields' started;
+2021-08-03 14:30:49 DEBUG MainView:151 - Method 'addTextFields' finished: TextFields is ready;
+2021-08-03 14:30:49 DEBUG MainView:155 - Method 'addButtons' started;
+2021-08-03 14:30:49 DEBUG MainView:217 - Method 'addButtons' finished: buttons is ready;
+2021-08-03 14:30:49 DEBUG MainView:222 - Method 'placeContainers' started;
+2021-08-03 14:30:49 DEBUG MainView:232 - Method 'placeContainers' finished: all containers on the pane;
+2021-08-03 14:30:50 DEBUG MainView:125 - Method 'start' finished: GUI is ready;
+2021-08-03 14:30:50 DEBUG UrlParser:45 - New UrlParser created without parameters;
+
+2021-08-03 14:30:55 DEBUG MainView:168 - btn_find is clicked;
+2021-08-03 14:30:55 DEBUG MainView:236 - Method 'showGif' started;
+2021-08-03 14:30:55 DEBUG MainView:262 - GIF started;
+2021-08-03 14:30:55 DEBUG UrlParser:55 - Method startParse() started with url: 46456;
+2021-08-03 14:30:55 DEBUG UrlParser:72 - Method checkUrl() started with url for checking: 46456;
+2021-08-03 14:30:55 ERROR UrlParser:89 - Incorrect link entered: 46456
+2021-08-03 14:30:55 DEBUG UrlParser:93 - Method checkUrl() finished;
+
+2021-08-03 14:30:55 DEBUG UrlParser:101 - Method getUrls() started;
+2021-08-03 14:30:57 DEBUG MainView:272 - Method 'showGif' finished: GIF closed.
+2021-08-03 14:30:59 DEBUG MainView:191 - btn_look is clicked;
+2021-08-03 14:30:59 DEBUG Informer:23 - Method 'showWindow()' started;
+2021-08-03 14:30:59 DEBUG Controller:28 - Method getAllEmails() started;
+2021-08-03 14:30:59 DEBUG Controller:37 - Method getAllEmails() finished with result: []
+2021-08-03 14:30:59 DEBUG Informer:51 - Method 'showWindow()' finished;
+2021-08-03 14:30:59 DEBUG MainView:272 - Method 'showGif' finished: GIF closed.
+2021-08-03 14:31:09 DEBUG MainView:168 - btn_find is clicked;
+2021-08-03 14:31:09 DEBUG MainView:236 - Method 'showGif' started;
+2021-08-03 14:31:09 DEBUG MainView:262 - GIF started;
+2021-08-03 14:31:09 DEBUG UrlParser:55 - Method startParse() started with url: 464564567457;
+2021-08-03 14:31:09 DEBUG UrlParser:72 - Method checkUrl() started with url for checking: 464564567457;
+2021-08-03 14:31:09 ERROR UrlParser:89 - Incorrect link entered: 464564567457
+2021-08-03 14:31:09 DEBUG UrlParser:93 - Method checkUrl() finished;
+
+2021-08-03 14:31:09 DEBUG UrlParser:101 - Method getUrls() started;
+2021-08-03 14:31:11 DEBUG MainView:272 - Method 'showGif' finished: GIF closed.
+2021-08-03 14:31:11 DEBUG MainView:191 - btn_look is clicked;
+2021-08-03 14:31:11 DEBUG Informer:23 - Method 'showWindow()' started;
+2021-08-03 14:31:11 DEBUG Controller:28 - Method getAllEmails() started;
+2021-08-03 14:31:11 DEBUG Controller:37 - Method getAllEmails() finished with result: []
+2021-08-03 14:31:11 DEBUG Informer:51 - Method 'showWindow()' finished;
+2021-08-03 14:31:13 DEBUG MainView:272 - Method 'showGif' finished: GIF closed.
+2021-08-03 14:33:18 DEBUG UrlParser:45 - New UrlParser created without parameters;
+
+2021-08-03 14:33:18 DEBUG MainView:64 - Method 'start' started;
+2021-08-03 14:33:18 DEBUG MainView:129 - Method 'addTextFields' started;
+2021-08-03 14:33:18 DEBUG MainView:151 - Method 'addTextFields' finished: TextFields is ready;
+2021-08-03 14:33:18 DEBUG MainView:155 - Method 'addButtons' started;
+2021-08-03 14:33:18 DEBUG MainView:217 - Method 'addButtons' finished: buttons is ready;
+2021-08-03 14:33:18 DEBUG MainView:222 - Method 'placeContainers' started;
+2021-08-03 14:33:18 DEBUG MainView:232 - Method 'placeContainers' finished: all containers on the pane;
+2021-08-03 14:33:19 DEBUG MainView:125 - Method 'start' finished: GUI is ready;
+2021-08-03 14:33:19 DEBUG UrlParser:45 - New UrlParser created without parameters;
+
+2021-08-03 14:33:26 DEBUG MainView:168 - btn_find is clicked;
+2021-08-03 14:33:26 DEBUG MainView:236 - Method 'showGif' started;
+2021-08-03 14:33:26 DEBUG MainView:262 - GIF started;
+2021-08-03 14:33:26 DEBUG UrlParser:55 - Method startParse() started with url: 5767ooooo;
+2021-08-03 14:33:26 DEBUG UrlParser:72 - Method checkUrl() started with url for checking: 5767ooooo;
+2021-08-03 14:33:26 ERROR UrlParser:89 - Incorrect link entered: 5767ooooo
+2021-08-03 14:33:26 DEBUG UrlParser:93 - Method checkUrl() finished;
+
+2021-08-03 14:33:26 DEBUG UrlParser:101 - Method getUrls() started;
+2021-08-03 14:33:28 DEBUG MainView:272 - Method 'showGif' finished: GIF closed.
+2021-08-03 14:33:30 DEBUG MainView:272 - Method 'showGif' finished: GIF closed.
+2021-08-03 14:33:31 DEBUG MainView:168 - btn_find is clicked;
+2021-08-03 14:33:31 DEBUG MainView:236 - Method 'showGif' started;
+2021-08-03 14:33:31 DEBUG MainView:262 - GIF started;
+2021-08-03 14:33:31 DEBUG UrlParser:55 - Method startParse() started with url: 5767ooooo;
+2021-08-03 14:33:31 DEBUG UrlParser:72 - Method checkUrl() started with url for checking: 5767ooooo;
+2021-08-03 14:33:31 ERROR UrlParser:89 - Incorrect link entered: 5767ooooo
+2021-08-03 14:33:31 DEBUG UrlParser:93 - Method checkUrl() finished;
+
+2021-08-03 14:33:31 DEBUG UrlParser:101 - Method getUrls() started;
+2021-08-03 14:33:33 DEBUG MainView:191 - btn_look is clicked;
+2021-08-03 14:33:33 DEBUG Informer:23 - Method 'showWindow()' started;
+2021-08-03 14:33:33 DEBUG Controller:28 - Method getAllEmails() started;
+2021-08-03 14:33:33 DEBUG Controller:37 - Method getAllEmails() finished with result: []
+2021-08-03 14:33:33 DEBUG Informer:51 - Method 'showWindow()' finished;
+2021-08-03 14:33:33 DEBUG MainView:272 - Method 'showGif' finished: GIF closed.
+2021-08-03 14:33:35 DEBUG MainView:272 - Method 'showGif' finished: GIF closed.
